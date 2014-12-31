@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Less Compile
+Plugin Name: Wp Less Compile
 Plugin URI: http://www.ecedi.fr/
 Description: Compile all Less files in Theme Stylesheet Directory
 Version: 2.2
