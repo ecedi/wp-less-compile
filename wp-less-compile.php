@@ -3,7 +3,7 @@
 Plugin Name: Less Compile
 Plugin URI: http://www.ecedi.fr/
 Description: Compile all Less files in Theme Stylesheet Directory
-Version: 2.1
+Version: 2.2
 Author: Julien Zerbib, Sylvain Gogel <sgogel@ecedi.fr>
 Author URI: http://www.ecedi.fr/
 
