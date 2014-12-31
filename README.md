@@ -36,10 +36,10 @@ In your composer.json file add the following
 ```
 
 then run
+
 ```
 composer update
-`̀``
-
+```
 
 ## Usage
 
