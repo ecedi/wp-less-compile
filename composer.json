@@ -1,0 +1,29 @@
+{
+    "name": "ecedi/wp-less-compile",
+    "type": "wordpress-plugin",
+    "description": "bring less preprocessor to Wordpress",
+    "keywords": ["less", "preprocessor", "wordpress", "plugin", "ecedi"],
+    "homepage": "http://github.com/ecedi/wp-less-compile",
+    "license": "MIT",
+
+    "authors": [
+        {
+            "name": "Ecedi Team",
+            "homepage": "http://ecedi.fr"
+        },
+        {
+            "name": "Github Community",
+            "homepage": "http://github.com/ecedi/wp-less-compile/graphs/contributors"
+        }
+    ],
+
+    "require": {
+        "php":                      ">=5.3.3"
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "stable",
+            "dev-devel": "devel"
+        }
+    }
+}
