@@ -1,9 +1,9 @@
 <?php
 /*
 Plugin Name: Wp Less Compile
-Plugin URI: http://www.ecedi.fr/
+Plugin URI: http://github.com/ecedi/wp-less-compile
 Description: Compile all Less files in Theme Stylesheet Directory
-Version: 2.2
+Version: 2.3
 Author: Julien Zerbib, Sylvain Gogel <sgogel@ecedi.fr>
 Author URI: http://www.ecedi.fr/
 
