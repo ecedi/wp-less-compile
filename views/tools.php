@@ -2,8 +2,8 @@
 /**
  * Display a form to compile less files
  * @package Wordpress-Plugins
- * @subpackage less-compile
- * @copyright 2014 Agence Ecedi http://www.ecedi.fr*
+ * @subpackage wp-less-compile
+ * @copyright 2014 Agence Ecedi http://www.ecedi.fr
  */
 ?>
     <h1><?php _e('Less Compile', 'lc') ?></h1>
